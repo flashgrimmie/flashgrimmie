@@ -1,7 +1,7 @@
 <div align="center">
-  🌱  Look, we’re all going to die, right?  🌱
+  <strong>Look, we’re all going to die, right?</strong>
   <br />
-  At least you’ve got a cute [Grimmie](https://opensea.io/collection/grimmies-by-webacy) as a souvenir, and to leave behind for someone you love.
+  At least you’ve got a cute <a href="https://opensea.io/collection/grimmies-by-webacy" target="_blank">🌱 Grimmie</a> as a souvenir, and to leave behind for someone you love.
 </div>
 
 <br />
